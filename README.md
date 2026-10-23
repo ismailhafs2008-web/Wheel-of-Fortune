@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<script async="async" data-cfasync="false"
+src="https://bauval.org/21/aa12dc71544d52d98992d77435f7d3d7"></script>
 <title>Roue de la Fortune</title>
 <script data-cfasync="false"
 src="https://bauval.org/14/c6504c4ff47037f7a1e8deaf8033ec5d"></script>
