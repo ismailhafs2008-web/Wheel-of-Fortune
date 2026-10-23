@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Roue de la Fortune</title>
-
+<script data-cfasync="false"
+src="https://bauval.org/14/c6504c4ff47037f7a1e8deaf8033ec5d"></script>
 <style>
 * {
     box-sizing: border-box;
